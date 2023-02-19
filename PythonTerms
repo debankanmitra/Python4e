@@ -1,0 +1,17 @@
+Python is a dynamically typed language that means we dont need to use int to specify an integer
+
+Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.
+
+Python is an interpreted language 
+
+Automatic memory management that means we don't need to release garbage blocks
+
+Large library
+
+Multi paradigm (Procedural , structural , object oriented )
+
+platform independent 
+
+name ='debankan'
+name[0]='d' // that means here string is array of characters
+
